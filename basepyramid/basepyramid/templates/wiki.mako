@@ -1,0 +1,1 @@
+<p> Base pyramid app 2: ${wikicontent} </p>
